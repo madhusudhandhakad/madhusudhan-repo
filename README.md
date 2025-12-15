@@ -1,2 +1,2 @@
 # madhusudhan-repo
-this is my first repo &lt;br> author = madhusudhan dhakad 
+this is my first repo <br> author = madhusudhan dhakad 
